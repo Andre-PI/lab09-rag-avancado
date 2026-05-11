@@ -3,8 +3,8 @@ DOCUMENTOS_MEDICOS = [
         "id": "DOC-001",
         "titulo": "Enxaqueca com aura",
         "texto": (
-            "A enxaqueca com aura apresenta cefaleia pulsátil unilateral, fotofobia, "
-            "fonofobia, náuseas e fenômenos visuais transitórios, como escotomas cintilantes."
+            "A enxaqueca com aura apresenta cefaleia pulsatil unilateral, fotofobia, "
+            "fonofobia, nauseas e fenomenos visuais transitorios, como escotomas cintilantes."
         ),
     },
     {
@@ -12,15 +12,15 @@ DOCUMENTOS_MEDICOS = [
         "titulo": "Meningite bacteriana",
         "texto": (
             "Suspeitar de meningite bacteriana diante de cefaleia intensa, rigidez nucal, "
-            "febre alta, vômitos e rebaixamento do nível de consciência."
+            "febre alta, vomitos e rebaixamento do nivel de consciencia."
         ),
     },
     {
         "id": "DOC-003",
         "titulo": "Sinusite aguda",
         "texto": (
-            "A rinossinusite aguda cursa com dor facial, pressão em região maxilar, "
-            "obstrução nasal, secreção purulenta e piora da cefaleia ao inclinar a cabeça."
+            "A rinossinusite aguda cursa com dor facial, pressao em regiao maxilar, "
+            "obstrucao nasal, secrecao purulenta e piora da cefaleia ao inclinar a cabeca."
         ),
     },
     {
@@ -28,23 +28,23 @@ DOCUMENTOS_MEDICOS = [
         "titulo": "Cefaleia tensional",
         "texto": (
             "A cefaleia tensional costuma ser bilateral, em aperto, de intensidade leve a moderada, "
-            "sem piora importante com esforço físico e sem fotofobia marcante."
+            "sem piora importante com esforco fisico e sem fotofobia marcante."
         ),
     },
     {
         "id": "DOC-005",
-        "titulo": "AVC isquêmico",
+        "titulo": "AVC isquemico",
         "texto": (
-            "Déficit neurológico focal súbito, assimetria facial, disartria e hemiparesia "
-            "demandam investigação imediata para acidente vascular cerebral isquêmico."
+            "Deficit neurologico focal subito, assimetria facial, disartria e hemiparesia "
+            "demandam investigacao imediata para acidente vascular cerebral isquemico."
         ),
     },
     {
         "id": "DOC-006",
         "titulo": "Glaucoma agudo",
         "texto": (
-            "Glaucoma agudo de ângulo fechado pode gerar dor ocular intensa, halos luminosos, "
-            "cefaleia, náuseas e redução abrupta da acuidade visual."
+            "Glaucoma agudo de angulo fechado pode gerar dor ocular intensa, halos luminosos, "
+            "cefaleia, nauseas e reducao abrupta da acuidade visual."
         ),
     },
     {
@@ -52,143 +52,143 @@ DOCUMENTOS_MEDICOS = [
         "titulo": "Crise hipertensiva",
         "texto": (
             "Na crise hipertensiva, pode haver cefaleia occipital, tontura, epistaxe, "
-            "dispneia e níveis pressóricos persistentemente elevados."
+            "dispneia e niveis pressoricos persistentemente elevados."
         ),
     },
     {
         "id": "DOC-008",
         "titulo": "Hipoglicemia",
         "texto": (
-            "A hipoglicemia manifesta sudorese fria, tremores, taquicardia, confusão mental "
-            "e alívio após oferta rápida de carboidrato."
+            "A hipoglicemia manifesta sudorese fria, tremores, taquicardia, confusao mental "
+            "e alivio apos oferta rapida de carboidrato."
         ),
     },
     {
         "id": "DOC-009",
         "titulo": "Pneumonia adquirida na comunidade",
         "texto": (
-            "Febre, tosse produtiva, dor pleurítica, estertores crepitantes e dessaturação "
-            "são sinais comuns de pneumonia adquirida na comunidade."
+            "Febre, tosse produtiva, dor pleuritica, estertores crepitantes e dessaturacao "
+            "sao sinais comuns de pneumonia adquirida na comunidade."
         ),
     },
     {
         "id": "DOC-010",
-        "titulo": "Asma em exacerbação",
+        "titulo": "Asma em exacerbacao",
         "texto": (
-            "Exacerbação asmática cursa com dispneia expiratória, sibilância difusa, "
-            "uso de musculatura acessória e redução do pico de fluxo expiratório."
+            "Exacerbacao asmatica cursa com dispneia expiratoria, sibilancia difusa, "
+            "uso de musculatura acessoria e reducao do pico de fluxo expiratorio."
         ),
     },
     {
         "id": "DOC-011",
         "titulo": "Colecistite aguda",
         "texto": (
-            "Dor em hipocôndrio direito, sinal de Murphy positivo, febre e leucocitose "
-            "são achados frequentes em colecistite aguda."
+            "Dor em hipocondrio direito, sinal de Murphy positivo, febre e leucocitose "
+            "sao achados frequentes em colecistite aguda."
         ),
     },
     {
         "id": "DOC-012",
         "titulo": "Apendicite aguda",
         "texto": (
-            "Dor migratória para fossa ilíaca direita, anorexia, febre baixa, náuseas e "
-            "descompressão brusca dolorosa sugerem apendicite aguda."
+            "Dor migratoria para fossa iliaca direita, anorexia, febre baixa, nauseas e "
+            "descompressao brusca dolorosa sugerem apendicite aguda."
         ),
     },
     {
         "id": "DOC-013",
-        "titulo": "Doença do refluxo gastroesofágico",
+        "titulo": "Doenca do refluxo gastroesofagico",
         "texto": (
-            "Pirose retroesternal, regurgitação ácida, piora pós-prandial e sintomas em decúbito "
-            "são compatíveis com refluxo gastroesofágico."
+            "Pirose retroesternal, regurgitacao acida, piora pos-prandial e sintomas em decubito "
+            "sao compativeis com refluxo gastroesofagico."
         ),
     },
     {
         "id": "DOC-014",
-        "titulo": "Infarto agudo do miocárdio",
+        "titulo": "Infarto agudo do miocardio",
         "texto": (
-            "Dor torácica opressiva irradiada para membro superior esquerdo, diaforese, "
-            "náuseas e sensação de morte iminente indicam síndrome coronariana aguda."
+            "Dor toracica opressiva irradiada para membro superior esquerdo, diaforese, "
+            "nauseas e sensacao de morte iminente indicam sindrome coronariana aguda."
         ),
     },
     {
         "id": "DOC-015",
         "titulo": "Trombose venosa profunda",
         "texto": (
-            "Edema assimétrico de membro inferior, empastamento muscular, dor à palpação "
-            "e aumento de temperatura local são compatíveis com trombose venosa profunda."
+            "Edema assimetrico de membro inferior, empastamento muscular, dor a palpacao "
+            "e aumento de temperatura local sao compativeis com trombose venosa profunda."
         ),
     },
     {
         "id": "DOC-016",
-        "titulo": "Dermatite atópica",
+        "titulo": "Dermatite atopica",
         "texto": (
-            "Prurido crônico, xerose cutânea, lesões eczematosas em áreas flexurais "
-            "e história pessoal ou familiar de atopia sustentam dermatite atópica."
+            "Prurido cronico, xerose cutanea, lesoes eczematosas em areas flexurais "
+            "e historia pessoal ou familiar de atopia sustentam dermatite atopica."
         ),
     },
     {
         "id": "DOC-017",
-        "titulo": "Herpes-zóster",
+        "titulo": "Herpes-zoster",
         "texto": (
-            "Vesículas agrupadas em trajeto dermatomérico, dor neurítica e hipersensibilidade "
-            "cutânea são típicas de herpes-zóster."
+            "Vesiculas agrupadas em trajeto dermatomerico, dor neuritica e hipersensibilidade "
+            "cutanea sao tipicas de herpes-zoster."
         ),
     },
     {
         "id": "DOC-018",
-        "titulo": "Insuficiência cardíaca descompensada",
+        "titulo": "Insuficiencia cardiaca descompensada",
         "texto": (
-            "Ortopneia, dispneia paroxística noturna, edema periférico, crepitações bibasais "
-            "e turgência jugular indicam congestão por insuficiência cardíaca."
+            "Ortopneia, dispneia paroxistica noturna, edema periferico, crepitacoes bibasais "
+            "e turgencia jugular indicam congestao por insuficiencia cardiaca."
         ),
     },
     {
         "id": "DOC-019",
-        "titulo": "Cólica renal",
+        "titulo": "Colica renal",
         "texto": (
-            "Dor lombar intensa em cólica, irradiação para região inguinal, hematúria "
-            "e inquietação psicomotora são sugestivas de litíase ureteral."
+            "Dor lombar intensa em colica, irradiacao para regiao inguinal, hematuria "
+            "e inquietacao psicomotora sao sugestivas de litiase ureteral."
         ),
     },
     {
         "id": "DOC-020",
-        "titulo": "Infecção urinária baixa",
+        "titulo": "Infeccao urinaria baixa",
         "texto": (
-            "Disúria, polaciúria, urgência miccional e dor suprapúbica compõem o quadro "
-            "clássico de cistite aguda não complicada."
+            "Disuria, polaciuria, urgencia miccional e dor suprapubica compoem o quadro "
+            "classico de cistite aguda nao complicada."
         ),
     },
     {
         "id": "DOC-021",
-        "titulo": "Otite média aguda",
+        "titulo": "Otite media aguda",
         "texto": (
-            "Otalgia, febre, abaulamento de membrana timpânica e irritabilidade "
-            "sugerem otite média aguda."
+            "Otalgia, febre, abaulamento de membrana timpanica e irritabilidade "
+            "sugerem otite media aguda."
         ),
     },
     {
         "id": "DOC-022",
-        "titulo": "Vertigem periférica",
+        "titulo": "Vertigem periferica",
         "texto": (
-            "Vertigem rotatória, náuseas, nistagmo horizontal e piora com mudança de posição "
-            "são comuns em disfunções vestibulares periféricas."
+            "Vertigem rotatoria, nauseas, nistagmo horizontal e piora com mudanca de posicao "
+            "sao comuns em disfuncoes vestibulares perifericas."
         ),
     },
     {
         "id": "DOC-023",
-        "titulo": "Lúpus eritematoso sistêmico",
+        "titulo": "Lupus eritematoso sistemico",
         "texto": (
-            "Artralgias, fotossensibilidade cutânea, exantema malar, alopecia e alterações "
-            "imunológicas podem compor o quadro de lúpus eritematoso sistêmico."
+            "Artralgias, fotossensibilidade cutanea, exantema malar, alopecia e alteracoes "
+            "imunologicas podem compor o quadro de lupus eritematoso sistemico."
         ),
     },
     {
         "id": "DOC-024",
         "titulo": "Conjuntivite viral",
         "texto": (
-            "Hiperemia conjuntival, lacrimejamento, secreção serosa e sensação de areia nos olhos "
-            "são frequentes na conjuntivite viral."
+            "Hiperemia conjuntival, lacrimejamento, secrecao serosa e sensacao de areia nos olhos "
+            "sao frequentes na conjuntivite viral."
         ),
     },
 ]
