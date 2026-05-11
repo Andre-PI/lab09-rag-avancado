@@ -59,4 +59,6 @@ dor de cabeça latejante e luz incomodando
 
 ## Nota obrigatória
 
-Partes deste laboratório foram geradas/complementadas com IA, revisadas e validadas por [Seu Nome].
+Partes deste laboratório foram geradas/complementadas com IA, revisadas e validadas por Andre Lucas Francino Castelo Branco.
+- data.py: gerada por IA
+- rag_pipeline.py: prompts gerados por IA 
